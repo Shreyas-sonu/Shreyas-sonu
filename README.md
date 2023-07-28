@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React JS, Dom, CSS, Javascript, SEO**
 
-- 📫 How to reach me **sonureigns007@gmail.com**
+- 📫 Reach me through **sonureigns007@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
