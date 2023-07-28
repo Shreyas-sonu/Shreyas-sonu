@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-[![GitHub Badge](https://img.shields.io/badge/-@suren--atoyan-%23181717?style=flat&logo=github)](https://github.com/shreyas-sonu) [![Gmail Badge](https://img.shields.io/badge/-contact@surenatoyan.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@surenatoyan.com)](mailto:sonureigns007@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-@surenatoyan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/surenatoyan/)]([https://www.linkedin.com/in/surenatoyan/](https://www.linkedin.com/in/shreyas-b-s-14331618b))
-
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg">
  <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg">
