@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Shreyas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg">
  <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg">
