@@ -1,4 +1,18 @@
-[![GitHub Badge](https://img.shields.io/badge/-@Shreyas--sonu-%23181717?style=flat&logo=github)](https://github.com/Shreyas-sonu) [![Gmail Badge](https://img.shields.io/badge/-sonureigns007@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sonureigns007@gmail.com)](mailto:sonureigns007@gmail.com) [![Website Badge](https://img.shields.io/website?color=0ab9e6&style=flat&logo=Internet&up_message=Portfolio&url=https://shreyas-sonu.github.io/portfolio/)](https://shreyas-sonu.github.io/portfolio/) [![Linkedin Badge](https://img.shields.io/badge/-@shreyasBS-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b)](https://www.linkedin.com/in/shreyas-b-s-14331618b)
+<a href="https://github.com/Shreyas-sonu" target="_blank">
+  <img src="https://img.shields.io/badge/-@Shreyas--sonu-%23181717?style=flat&logo=github" alt="GitHub Badge">
+</a>
+<a href="mailto:sonureigns007@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-sonureigns007@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sonureigns007@gmail.com" alt="Gmail Badge">
+</a>
+
+<a href="https://shreyas-sonu.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/website?color=0ab9e6&style=flat&logo=Internet&up_message=Portfolio&url=https://shreyas-sonu.github.io/portfolio/" alt="Website Badge">
+</a>
+
+<a href="https://www.linkedin.com/in/shreyas-b-s-14331618b" target="_blank">
+  <img src="https://img.shields.io/badge/-@shreyasBS-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b" alt="Linkedin Badge">
+</a>
+
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg">
