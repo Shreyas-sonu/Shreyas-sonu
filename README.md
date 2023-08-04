@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/-sonureigns007@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sonureigns007@gmail.com" alt="Gmail Badge">
 </a>
 
-<a href="https://shreyas-sonu.github.io/portfolio/" target="_blank">
+<a href="https://shreyas-sonu.github.io/portfolio/" target="new">
   <img src="https://img.shields.io/website?color=0ab9e6&style=flat&logo=Internet&up_message=Portfolio&url=https://shreyas-sonu.github.io/portfolio/" alt="Website Badge">
 </a>
 
