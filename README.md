@@ -13,7 +13,13 @@
   <img src="https://img.shields.io/badge/-@shreyasBS-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b" alt="Linkedin Badge">
 </a>
 
+<a href="https://dribbble.com/shreyas-sonu" target="_blank">
+  <img src="https://img.shields.io/badge/-@shreyasBS-E64785?style=flat&logo=dribbble&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b" alt="Linkedin Badge">
+</a>
 
+<a href="https://medium.com/@sonureigns007" target="_blank">
+  <img src="https://img.shields.io/badge/-@shreyasBS-080808?style=flat&logo=medium&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b" alt="Linkedin Badge">
+</a>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg">
  <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg">
