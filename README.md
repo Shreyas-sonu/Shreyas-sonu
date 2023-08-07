@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-@shreyasBS-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b" alt="Linkedin Badge">
 </a>
 
-<a href="https://dribbble.com/shreyas-sonu/about#" target="_blank">
+<a href="https://dribbble.com/shreyas-sonu" target="_blank">
   <img src="https://img.shields.io/badge/-shreyas--sonu-E64785?style=flat&logo=dribbble&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b" alt="Dribble Badge">
 </a>
 
