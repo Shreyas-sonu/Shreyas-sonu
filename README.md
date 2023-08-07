@@ -14,11 +14,11 @@
 </a>
 
 <a href="https://dribbble.com/shreyas-sonu" target="_blank">
-  <img src="https://img.shields.io/badge/-shreyas-sonu-E64785?style=flat&logo=dribbble&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b" alt="Linkedin Badge">
+  <img src="https://img.shields.io/badge/-shreyas--sonu-E64785?style=flat&logo=dribbble&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b" alt="Dribble Badge">
 </a>
 
 <a href="https://medium.com/@sonureigns007" target="_blank">
-  <img src="https://img.shields.io/badge/-@sonureigns007-080808?style=flat&logo=medium&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b" alt="Linkedin Badge">
+  <img src="https://img.shields.io/badge/-@sonureigns007-080808?style=flat&logo=medium&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b" alt="Medium Badge">
 </a>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg">
