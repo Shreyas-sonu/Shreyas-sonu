@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-@shreyasBS-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b" alt="Linkedin Badge">
 </a>
 
-<a href="https://dribbble.com/search/users/Shreyas%20sonu" target="_blank">
+<a href="https://dribbble.com/shreyas-sonu/about?utm_source=Clipboard_%22clipboard_about%22&utm_campaign=%22shreyas-sonu%22&utm_content=%22About%20shreyas-sonu%22&utm_medium=Social_Share" target="_blank">
   <img src="https://img.shields.io/badge/-shreyas--sonu-E64785?style=flat&logo=dribbble&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b" alt="Dribble Badge">
 </a>
 
