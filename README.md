@@ -24,6 +24,7 @@
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg">
  <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg">
 </picture>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-sonu&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-sonu" /> </p>
 
 - 🌱 I’m currently learning **React Native,Python**
@@ -177,6 +178,12 @@
     />
   </a>
 </p>
+
+<div align="center">
+  <a href="https://github.com/shreyas-sonu">
+    <img src="https://github-readme-stats.vercel.app/api?username=shreyas-sonu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs" alt="Shreyas's GitHub stats">
+  </a>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
