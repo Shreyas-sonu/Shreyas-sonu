@@ -1,4 +1,4 @@
-<a href="https://github.com/Shreyas-sonu" target="_blank">
+<a href="https://github.com/Shreyas-sonu" title="Don't think me as stupid just because i am givng github link inside github (that is to increase profile view counts...😜)" target="_blank">
   <img src="https://img.shields.io/badge/-@Shreyas--sonu-%23181717?style=flat&logo=github" alt="GitHub Badge">
 </a>
 <a href="mailto:sonureigns007@gmail.com" target="_blank">
