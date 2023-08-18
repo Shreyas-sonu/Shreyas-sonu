@@ -180,8 +180,9 @@
 </p>
 <div align="center">
   <a href="https://github.com/shreyas-sonu">
-    <img src="https://github-readme-stats.vercel.app/api?username=shreyas-sonu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs" alt="Shreyas's GitHub stats">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-sonu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs&token=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" alt="Shreyas's GitHub stats">
+</a>
+
 </div>
 
 <h3 align="left">Connect with me:</h3>
