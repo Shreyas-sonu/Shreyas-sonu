@@ -21,8 +21,8 @@
   <img src="https://img.shields.io/badge/-@shreyas--sonu-080808?style=flat&logo=medium&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b" alt="Medium Badge">
 </a>
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-dark.svg">
- <img alt="snake!" src="https://raw.githubusercontent.com/suren-atoyan/suren-atoyan/output/github-contribution-grid-snake-light.svg">
+ <source media="(prefers-color-scheme: dark)" srcset="./snake.svg">
+ <img alt="snake!" src="./snake.svg">
 </picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-sonu&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-sonu" /> </p>
