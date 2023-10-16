@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-@shreyas--sonu-080808?style=flat&logo=medium&logoColor=white&link=https://www.linkedin.com/in/shreyas-b-s-14331618b" alt="Medium Badge">
 </a>
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="./snake.svg">
+ <source media="(prefers-color-scheme: dark)" srcset="./snake-dark.svg">
  <img alt="snake!" src="./snake.svg">
 </picture>
 
