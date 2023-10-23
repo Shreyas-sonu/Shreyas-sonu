@@ -179,16 +179,13 @@
   </a>
 </p>
 <div align="center">
-<!--   <a href="https://github.com/shreyas-sonu">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-sonu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs" alt="Shreyas's GitHub stats"> -->
-<!-- <div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-sonu&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)</div> -->
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-sonu&layout=donut-vertical&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-sonu&layout=donut&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-sonu&layout=donut-vertical&theme=light"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-sonu&layout=donut&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
