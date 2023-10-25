@@ -181,11 +181,11 @@
 <div align="center">
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-sonu&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-sonu&layout=compact&theme=dark&langs_count=8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-sonu&layout=compact&theme=light"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-sonu&layout=compact&theme=light&langs_count=8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
