@@ -1,0 +1,24 @@
+name: Daily Commit
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Schedule the workflow to run daily at midnight UTC
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config user.name "shreyas-sonu"
+          git config user.email "sonureigns007@gmail.com"
+
+      - name: Create new commit
+        run: |
+          echo "$(date)" >> commit.txt
+          git add commit.txt
+          git commit -m "Daily commit $(date)"
+          git push
