@@ -26,11 +26,6 @@
 </picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-sonu&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-sonu" /> </p>
- - 🌱 I’m currently learning **Python, SQL**
-
-- 💬 Ask me about **React JS, Dom, CSS, Javascript, SEO**
-
-- 📫 Reach me through **sonureigns007@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
