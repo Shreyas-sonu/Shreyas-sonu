@@ -198,12 +198,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-sonu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 </div>
+<br>
 <p align="center" style="text-align: center;">
-  <a href="https://github.com/1999rkgupta">
+  <a href="https://github.com/Shreyas-sonu"">
    <img
      width="400px"
      align="center"
-     src="https://github-profile-trophy.vercel.app/?username=Shreyas-sonu&theme=dracula&title=Experience,Commit,PullRequest,MultiLanguage,Stars,Repositories,Followers&column=3&margin-w=15&margin-h=15" 
+     src="https://github-profile-trophy.vercel.app/?username=Shreyas-sonu&theme=dracula&title=Organizations,Commit,PullRequest,Issue,Stars,Repositories&column=3&margin-w=15&margin-h=15" 
     />
  </a>
 </p>
