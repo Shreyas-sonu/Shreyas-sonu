@@ -26,11 +26,11 @@
 </picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-sonu&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-sonu" /> </p>
-<p align="center"> - 🌱 I’m currently learning **Python, SQL**
+<p align="center"> - 🌱 I’m currently learning **Python, SQL**</p>
 
-- 💬 Ask me about **React JS, Dom, CSS, Javascript, SEO**
+<p align="center"> - 💬 Ask me about **React JS, Dom, CSS, Javascript, SEO**</p>
 
-- 📫 Reach me through **sonureigns007@gmail.com**</p>
+<p align="center"> - 📫 Reach me through **sonureigns007@gmail.com**</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
