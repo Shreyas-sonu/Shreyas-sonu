@@ -26,13 +26,13 @@
 </picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-sonu&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-sonu" /> </p>
-<p align="center"> - 🌱 I’m currently learning **Python, SQL**</p>
+ - 🌱 I’m currently learning **Python, SQL**
 
-<p align="center"> - 💬 Ask me about **React JS, Dom, CSS, Javascript, SEO**</p>
+- 💬 Ask me about **React JS, Dom, CSS, Javascript, SEO**
 
-<p align="center"> - 📫 Reach me through **sonureigns007@gmail.com**</p>
+- 📫 Reach me through **sonureigns007@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
@@ -198,7 +198,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-sonu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 </div>
-<h3 align="left">Connect with me:</h3><br>
-<p align="left">
+<h3 align="center">Connect with me:</h3><br>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyas-b-s-14331618b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyas-b-s-14331618b" height="30" width="40" /></a>
 </p>
