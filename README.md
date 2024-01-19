@@ -199,7 +199,7 @@
    <img
      width="400px"
      align="center"
-     src="https://github-profile-trophy.vercel.app/?username=Shreyas-sonu&theme=dracula&title=Organizations,Commit,PullRequest,Issue,Stars,Repositories&column=3&margin-w=15&margin-h=15" 
+     src="https://github-profile-trophy.vercel.app/?username=Shreyas-sonu&theme=dracula&title=Organizations,Commit,PullRequest,Issue,Stars,Repositories,MultiLanguage&column=3&margin-w=15&margin-h=15" 
     />
  </a>
 </p>
