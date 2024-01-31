@@ -41,23 +41,23 @@
     <img
       src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
       alt="nodejs"
-      width="40"
+      width="50"
       height="40"
     />
   </a>
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
-      alt="css3"
-      width="40"
+      alt="express"
+      width="50"
       height="40"
     />
   </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
-      alt="react"
-      width="40"
+      alt="monogdb"
+      width="50"
       height="40"
     />
   </a>
@@ -90,6 +90,14 @@
       height="40"
     />
   </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="35"
+      height="35"
+    />
+  </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -102,14 +110,6 @@
     <img
       src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"
       alt="golang"
-      width="35"
-      height="35"
-    />
-  </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
       width="35"
       height="35"
     />
