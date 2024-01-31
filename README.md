@@ -37,7 +37,48 @@
       height="40"
     />
   </a>
-  <a
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <br />
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="35"
+      height="35"
+    />
+  </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="35"
+      height="35"
+    />
+  </a>
+    <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
     rel="noreferrer"
@@ -49,23 +90,6 @@
       height="40"
     />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <br />
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -74,64 +98,64 @@
       height="35"
     />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="35"
-      height="35"
-    />
-  </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://mui.com/static/logo.png"
-      alt="materialize"
-      width="35"
-      height="35"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="35"
-      height="35"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="35"
-      height="35"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="35"
-      height="35"
-    />
-  </a>
-  <br />
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
-      width="30"
-      height="30"
+      width="35"
+      height="35"
     />
   </a>
     <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"
       alt="golang"
+      width="35"
+      height="35"
+    />
+  </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="35"
+      height="35"
+    />
+  </a>
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
+      alt="electron"
+      width="35"
+      height="35"
+    />
+  </a>
+  <br />
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap"
       width="30"
       height="30"
     />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://mui.com/static/logo.png"
+      alt="materialize"
+      width="30"
+      height="30"
+    />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="30"
+      height="30"
+    />
+  </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
@@ -139,18 +163,18 @@
       height="30"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
+      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+      alt="postman"
       width="30"
       height="30"
     />
   </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
-      alt="electron"
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
       width="30"
       height="30"
     />
