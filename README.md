@@ -36,31 +36,32 @@
       width="40"
       height="40"
     />
-  </a>
+  </a> 
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"
       alt="nodejs"
-      width="50"
+      width="55"
       height="40"
     />
-  </a>
+  </a> 
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
       alt="express"
-      width="50"
+      width="55"
       height="40"
     />
-  </a>
+  </a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
       alt="monogdb"
-      width="50"
+      width="55"
       height="40"
     />
   </a>
+  <br />
   <br />
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -114,6 +115,7 @@
       height="35"
     />
   </a>
+  <br />
   <br />
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
