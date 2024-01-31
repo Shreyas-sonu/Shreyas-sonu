@@ -84,7 +84,7 @@
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
+      src="https://mui.com/static/logo.png"
       alt="materialize"
       width="35"
       height="35"
@@ -123,18 +123,18 @@
       height="30"
     />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
+      src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"
+      alt="golang"
       width="30"
       height="30"
     />
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
       width="30"
       height="30"
     />
