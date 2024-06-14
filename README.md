@@ -221,7 +221,7 @@
     />
  </a>
 </p>
-![3D Contribution](https://raw.githubusercontent.com/<Shreyas-sonu>/<Shreyas-sonu>/main/profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
 <h3 align="center">Connect with me:</h3><br>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyas-b-s-14331618b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyas-b-s-14331618b" height="30" width="40" /></a>
