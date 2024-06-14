@@ -191,7 +191,15 @@
   </a>
 </p>
 <div align="center">
+<br><b>My GitHub Stats</b><br>
+<p align="center" style="text-align: center;">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <img alt="Profile!" src="./profile-3d-contrib/profile-season.svg">
+  </picture>
+</p>
+<div style="display:flex;align-item:center;justify-content:center;gap:20px">
+    <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-sonu&layout=compact&theme=dark&langs_count=8"
     media="(prefers-color-scheme: dark)"
@@ -202,14 +210,13 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
-<br><b>My GitHub Stats</b><br>
-<a href="http://www.github.com/Shreyas-sonu">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-sonu&show_icons=true&hide=issues&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Shreyas's GitHub stats" />
-</a>
-<br>
-<a href="http://www.github.com/Shreyas-sonu">
+  <a href="http://www.github.com/Shreyas-sonu">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-sonu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
+  <a href="http://www.github.com/Shreyas-sonu">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyas-sonu&show_icons=true&hide=issues&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Shreyas's GitHub stats" />
+</a>
+
 </div>
 <br>
 <p align="center" style="text-align: center;">
@@ -222,13 +229,6 @@
  </a>
 </p>
 <br>
-<p align="center" style="text-align: center;">
-  <u>Contribution</u>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
-    <img alt="Profile!" src="./profile-3d-contrib/profile-season.svg">
-  </picture>
-</p>
 <h3 align="center">Connect with me:</h3><br>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyas-b-s-14331618b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyas-b-s-14331618b" height="30" width="40" /></a>
