@@ -221,7 +221,12 @@
     />
  </a>
 </p>
-![](./profile-3d-contrib/profile-season-animate.svg)
+<p align="center" style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
+    <img alt="Profile!" src="./profile-3d-contrib/profile--season.svg">
+  </picture>
+</p>
 <h3 align="center">Connect with me:</h3><br>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyas-b-s-14331618b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyas-b-s-14331618b" height="30" width="40" /></a>
