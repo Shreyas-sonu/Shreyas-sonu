@@ -224,7 +224,7 @@
 <p align="center" style="text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
-    <img alt="Profile!" src="./profile-3d-contrib/profile--season.svg">
+    <img alt="Profile!" src="./profile-3d-contrib/profile-season.svg">
   </picture>
 </p>
 <h3 align="center">Connect with me:</h3><br>
